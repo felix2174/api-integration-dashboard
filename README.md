@@ -8,6 +8,7 @@ mit Echtzeit-Status, Charts und Performance-Monitoring.
 http://localhost/businesshub-api-dashboard
 
 <img width="1854" height="881" alt="grafik" src="https://github.com/user-attachments/assets/b5b36c97-f73d-477d-a2b2-22d5bb964b62" />
+<img width="1857" height="732" alt="grafik" src="https://github.com/user-attachments/assets/7ce1819a-03e0-4444-867a-d89dee9d2160" />
 
 
 ## Features
