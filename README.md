@@ -6,6 +6,7 @@ mit Echtzeit-Status, Charts und Performance-Monitoring.
 
 ## Live-Demo
 http://localhost/businesshub-api-dashboard
+
 <img width="1920" height="1020" alt="grafik" src="https://github.com/user-attachments/assets/d92945e7-093b-4aa3-9511-0f0a98b166e6" />
 
 
